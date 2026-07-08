@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geography of the Places</title>
+    <link rel="stylesheet" href="stylecss">
+</head>
+<body>
+
+    <header>
+        <h1>Geography</h1>
+    </header>
+
+    <nav>
+    
+        <ul>
+            <li><a href="#" style="color: white; text-decoration: none; font-weight: bold;">Santorini</a></li>
+            <li><a href="#" style="color: white; text-decoration: none; font-weight: bold;">Kyoto</a></li>
+        </ul>
+    <button onclick="window.location.href='https://www.google.com/maps/place/Santorini,+Greece'">
+  Santorini Location
+    </button>
+
+    <button onclick="window.location.href='https://www.google.com/maps/place/Kyoto,+Japan'">
+  Kyoto Location
+    </button>
+    </nav>
+
+    <main>
+        <h2>Santorini, Greece</h2>
+        <p>Santorini is a crescent-shaped volcanic archipelago in the Aegean Sea. Its most defining feature is the caldera—a massive, water-filled crater created thousands of years ago by a violent volcanic explosion. The western side features steep, towering cliffs dotted with famous white villages, while the eastern side slopes gently down to flat, black-sand beaches</p>
+
+        <h2>Kyoto, Japan</h2>
+        <p>Kyoto is situated in the northern half of the Kyoto Basin in central Honshu. Cradled by mountains on three sides and opening to the southwest toward Osaka, its geography is defined by a central flat plain bound by lush, forested ranges and historic riverways</p>
+    </main>
+
+<ul>
+    <li>Santorini, Greece</li>
+
+    <li>Kyoto, Japan</li>
+</ul>
+
+
+    <footer>
+        <p style="color: white; text-align: center; margin: 0;"> Travel Guide Assignment</p>
+    </footer>
+
+
+
+
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Santorini_Caldera_ASTER.jpg" alt="Santorini, Greece" width="500">
+
+    <img src="https://cdn.britannica.com/45/19745-050-A3FE1D84/locator-World-Heritage-Kyoto-Japan.jpg" alt="Kyoto, Japan" width="500">
+
+<footer>
+    <a href="#top">Jump to the Top</a>
+</footer>
+
+
+</body>
+</html>
